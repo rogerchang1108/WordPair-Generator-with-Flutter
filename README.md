@@ -5,3 +5,13 @@ This project is organizally from [codelabs](https://codelabs.developers.google.c
 ## Installation
 ### Install Flutter
 see [Official Tutorial](https://docs.flutter.dev/get-started/install)
+
+## Screenshots
+### The Home Page
+<br>![component](img/1.png)<br> 
+
+### Add Favorite
+ <br>![component](img/2.png)<br> 
+
+### See Favorites
+<br>![component](img/3.png)<br> 
